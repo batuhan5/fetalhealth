@@ -10,7 +10,7 @@ Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal h
 maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, 
 uterine contractions and more.
 
-
+In this project my goal is to build a model that predicate fetal health classes.I made this model in R and i used multinomial logistic regression.
 
 
 citation

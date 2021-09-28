@@ -13,5 +13,5 @@ uterine contractions and more.
 In this project my goal is to build a model that predicate fetal health classes.I made this model in R and i used multinomial logistic regression.
 
 
-citation
+CITATION
 Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 
